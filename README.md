@@ -1,16 +1,18 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy Federico
 
-<!--
-**federicogvaldez/federicogvaldez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un **Desarrollador Backend** enfocado en crear soluciones eficientes y escalables con tecnologías modernas. Aquí encontrarás varios proyectos donde exploro el desarrollo backend, la creación de APIs y la gestión de bases de datos.
 
-Here are some ideas to get you started:
+### 💻 Sobre mí
+- 🌱 Actualmente trabajando y aprendiendo con **NestJS**, **TypeORM**, **PostgreSQL** y **Node.js**.
+- 🔭 Apasionado por construir **APIs RESTful** y optimizar el rendimiento de bases de datos.
+- 🛠️ Me gusta enfrentar retos de backend y crear experiencias de usuario fluidas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Proyectos Destacados
+- **Aplicación de E-commerce** – Plataforma de comercio electrónico con autenticación de usuarios, listado de productos e integración de pagos.
+- **Sistema de Reservas** – Aplicación web para la gestión de reservas en restaurantes con notificaciones en tiempo real e integración en la nube.
+
+### 🌐 Conectemos
+- 💬 No dudes en preguntarme sobre desarrollo backend, APIs, y bases de datos.
+- 📫 Puedes contactarme en LinkedIn o a través de mi correo electrónico.
+
+¡Gracias por visitar mi perfil!
