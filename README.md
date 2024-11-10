@@ -13,7 +13,7 @@
 
 ### 🌐 Conectemos
 - 💬 No dudes en contactarme para hablar sobre desarrollo backend, APIs y bases de datos.
-- 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/federico-valdez-220562ba/) o enviarme un correo a [tu-email@example.com](mailto:federico.valdez@hotmail.com).
+- 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/federico-valdez-220562ba/) o enviarme un correo a [federico.valdez@hotmail.com](mailto:federico.valdez@hotmail.com).
 
 ---
 
