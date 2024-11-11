@@ -12,7 +12,7 @@
 - **Sistema de Reservas** – Aplicación web para la gestión de reservas en restaurantes, con notificaciones en tiempo real mediante sistema de mailing y administración de clientes.
 
 ### 🌐 Conectemos
-- 💬 No dudes en contactarme para hablar sobre desarrollo backend, APIs y bases de datos.
+- 💬 No dudes en contactarme.
 - 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/federico-valdez-220562ba/) o enviarme un correo a [federico.valdez@hotmail.com](mailto:federico.valdez@hotmail.com).
 
 ---
