@@ -15,6 +15,9 @@
 - 💬 No dudes en contactarme.
 - 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/federico-valdez-220562ba/) o enviarme un correo a [federico.valdez@hotmail.com](mailto:federico.valdez@hotmail.com).
 
+### 📄 Mi CV
+Puedes descargar mi CV directamente desde este [enlace](./docs/CV Federico Valdez.pdf).
+
 ---
 
 ¡Gracias por visitar mi perfil!
